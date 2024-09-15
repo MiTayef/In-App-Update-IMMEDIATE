@@ -13,15 +13,7 @@
 
 <!-- App Features Area -->
 <h3>App Key Features ✨</h3>
-<p>✔ FAQ Section</p>
-<p>✔ Navigation Menu</p>
-<p>✔ Bottom Menu</p>
-<p>✔ Sliding Images</p>
-<p>✔ View, Read and Zoom PDF File</p>
-<p>✔ Showing the Number of PDF Pages</p>
-<p>✔ Banner Ad Implement from AdMob</p>
-<p>✔ Full Screen Ad Implement from AdMob</p>
-<p>✔ Custom Exit App Confirmation Dialogue</p>
+<p>✔ Requred Update Showing When User Using The App</p>
 </br></br>
 
 
